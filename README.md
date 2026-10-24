@@ -1,10 +1,11 @@
 ## Hi There!
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/?isSelfProfile=true) [![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedias2508@gmail.com)
+
+## Meu nome é Felipe Dias
 
 <!-- E-mail (Gmail) -->
-[![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@fernandakipper.com)
-## Meu nome é Felipe Dias
+
 
 Faça uma breve apresentação sobre você e a sua stack.
 
