@@ -1,37 +1,53 @@
-## Hi There!
-<!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/?isSelfProfile=true) [![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedias2508@gmail.com)
+## Hi There! 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/) [![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedias2508@gmail.com)
 
 ## Meu nome é Felipe Dias
 
-<!-- E-mail (Gmail) -->
+Sou tecnólogo em Automação Industrial e técnico em Mecatrônica, com foco em desenvolvimento de software embarcado, arquiteturas de firmware robustas e integração de sistemas de chão de fábrica. Minha atuação transita entre o baixo nível do hardware (C/C++, microcontroladores e eletrónica) e a camada de supervisão industrial (sistemas SCADA, protocolos de comunicação e redes industriais).
 
-
-Faça uma breve apresentação sobre você e a sua stack.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🔭 **Projetos em destaque:**
+- **Terrômetro IoT:** Medidor de resistência de aterramento baseado no método de queda de potencial a 4 fios (Kelvin), com geração PWM analógica, amostragem ADC via DMA no ESP32-S3 e telemetria sem fios com LoRa.
+- **Sistemas de Monitoramento & Alarmes IoT:** Projetos em C++ para ESP32 utilizando máquinas de estado não-bloqueantes, RTOS, sincronização NTP e integração via Telegram/MQTT.
 
 ---
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+### 💻 Linguagens
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/></code>
+
+### ⚡ Automação Industrial & Hardware
+
+- **Controladores Lógicos Programáveis (CLPs):**
+  * Programação em **Ladder** e **Structured Text (ST)** (IEC 61131-3)
+  * Lógica sequencial e modelação com **GRAFCET**
+  * Ambientes de desenvolvimento e simulação (**CODESYS**)
+
+- **Sistemas SCADA & IHM:**
+  * Supervisórios industriais (**AVEVA System Platform / InTouch OMI**)
+  * Design de interfaces operacionais (**High Performance HMI / ANSI/ISA-101**)
+  * Servidores de comunicação e drivers OPC (**TOP Server**)
+
+- **Protocolos de Comunicação & Redes Industriais:**
+  * **Modbus** (RTU e TCP/IP)
+  * **MQTT** (Arquiteturas IoT / IIoT)
+  * Barramentos de campo e interfaces seriais (**RS-485**, **AS-Interface**, **SPI**, **I2C**, **UART**)
+
+- **Eletrónica & Sistemas Embarcados:**
+  * Microcontroladores e SoCs (**ESP32**, **ESP32-S3**, **STM32**, **Arduino**, **PIC**)
+  * Desenvolvimento de firmware com **FreeRTOS** e **ESP-IDF**
+  * Esquemas elétricos, layout de PCB e simulação (**KiCad**, **Proteus**)
+  * Instrumentação e análise física (**Analisadores lógicos**, aquisição via DMA/ADC)
 
 ---
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ffdiasz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffdiasz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
