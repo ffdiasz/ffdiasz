@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/) [![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedias2508@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Acesar_Curriculo-6833b7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ffdiasz/ffdiasz/blob/main/Curriculo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/) [![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedias2508@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Acesar_Curriculo-6833b7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ffdiasz/ffdiasz/blob/main/Curriculo.PDF)
 
 ## Meu nome é Felipe Dias(
 
