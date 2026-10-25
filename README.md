@@ -12,17 +12,7 @@ Sou tecnólogo em Automação Industrial e técnico em Mecatrônica, com foco em
 
 Para mais informações, acesse [meu currículo](./curriculo.pdf).
 
-
-## 🚀 Minhas Skills
-
-### 💻 Linguagens
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/></code
-## ⭐ GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ffdiasz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />                           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffdiasz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
