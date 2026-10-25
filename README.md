@@ -1,8 +1,8 @@
 ## Hi There! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/) [![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedias2508@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Acesar_Curriculo-6833b7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./curriculo.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6833b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffdias/) [![Email](https://img.shields.io/badge/FelipeDias2508@gmail.com-6833b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipedias2508@gmail.com) [![Currículo PDF](https://img.shields.io/badge/Acesar_Curriculo-6833b7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ffdiasz/ffdiasz/blob/main/Curriculo)
 
-## Meu nome é Felipe Dias
+## Meu nome é Felipe Dias(
 
 Sou tecnólogo em Automação Industrial e técnico em Mecatrônica, com foco em desenvolvimento de software embarcado, arquiteturas de firmware robustas e integração de sistemas de chão de fábrica. Minha atuação transita entre o baixo nível do hardware (C/C++, microcontroladores e eletrónica) e a camada de supervisão industrial (sistemas SCADA, protocolos de comunicação e redes industriais).
 
