@@ -10,7 +10,7 @@ Sou tecnólogo em Automação Industrial e técnico em Mecatrônica, com foco em
 - **Terrômetro IoT:** Medidor de resistência de aterramento baseado no método de queda de potencial a 4 fios (Kelvin), com geração PWM analógica, amostragem ADC via DMA no ESP32-S3 e telemetria sem fios com LoRa.
 - **Sistemas de Monitoramento & Alarmes IoT:** Projetos em C++ para ESP32 utilizando máquinas de estado não-bloqueantes, RTOS, sincronização NTP e integração via Telegram/MQTT.
 
-Para mais informações, acesse [meu currículo](./curriculo.pdf).
+Para mais informações, acesse [meu currículo](https://github.com/ffdiasz/ffdiasz/blob/main/Curriculo.PDF).
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/></code>
